@@ -1,2 +1,3 @@
-# iclr-tsne
-Visualizing ICLR submissions
+# Visualizing ICLR submissions
+
+![ICLR t-SNE](iclr-all.png)
